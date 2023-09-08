@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FBF66142-8720-45E1-9ADC-4808539BB0BB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "514E5C43-485E-4791-AFB0-83CA2E57C642"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PP/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "514E5C43-485E-4791-AFB0-83CA2E57C642 - fa5f1ef5b6bb3c1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "PP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/Analisis%20y%20Diseno%20de%20Algoritmos/PP/PP/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "514E5C43-485E-4791-AFB0-83CA2E57C642 - fa5f1ef5b6bb3db5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "PP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/Analisis%20y%20Diseno%20de%20Algoritmos/PP/PP/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1482BEBA-6184-4317-A847-7F8E80E3BB57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PP/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "rs(x, y)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "1482BEBA-6184-4317-A847-7F8E80E3BB57 - 4c71b1dc2d70ea9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rs(int, int)"
+                  moduleName = "PP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/Analisis%20y%20Diseno%20de%20Algoritmos/PP/PP/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "1482BEBA-6184-4317-A847-7F8E80E3BB57 - 4c71b1dc2d70ea9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rs(int, int)"
+                  moduleName = "PP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/Analisis%20y%20Diseno%20de%20Algoritmos/PP/PP/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "1482BEBA-6184-4317-A847-7F8E80E3BB57 - 4c71b1dc2d70ec6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rs(int, int)"
+                  moduleName = "PP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/Analisis%20y%20Diseno%20de%20Algoritmos/PP/PP/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "1482BEBA-6184-4317-A847-7F8E80E3BB57 - 4c71b1dc2d70ee7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rs(int, int)"
+                  moduleName = "PP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/Analisis%20y%20Diseno%20de%20Algoritmos/PP/PP/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
