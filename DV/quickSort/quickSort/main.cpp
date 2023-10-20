@@ -9,32 +9,33 @@
 using namespace std;
 
 int* order(int*array, int* inicio, int* fin){
-    int* p = fin;
-    int * tmp = nullptr;
-    for(int*i = inicio; i<fin; i++){
+    int * p = fin;
+    int * lastMin = nullptr;
+    int * firstMax = nullptr;
+    for(int * i = inicio; i<fin;i++){
         if(*i<*p){
-            if(!tmp)
-                tmp =i;
+            if(lastMin && i-1 == lastMin)
+                lastMin = i;
             else{
-                if(i-1 != tmp){
-                    swap(*(tmp+1),*i);
-                    tmp++;
+                if(lastMin){
+                    swap(*(lastMin+1),*i);
+                    lastMin = lastMin+1;
                 }
                 else{
-                    tmp = i;
+                    swap(*inicio,*i);
+                    lastMin = inicio;
                 }
+                    
+                
             }
         }
     }
-    if(tmp){
-        swap(*(tmp+1),*p);
-        return tmp+1;
+    if(lastMin){
+        swap(*(lastMin+1),*p);
+        return (lastMin+1);
     }
-    else{
-        tmp = inicio;
-        swap(*tmp,*p);
-        return tmp;
-    }
+    swap(*inicio,*p);
+    return inicio;
     
 }
 
@@ -50,7 +51,7 @@ void quickS(int* array,int* inicio,int* fin){
 }
 
 int main(int argc, const char * argv[]) {
-    int array[5] = {2,7,1,5,4};
+    int array[5] = {7,6,5,4,3};
     int* ini = array;
     int tam = sizeof(array)/sizeof(array[0]);
     int* fin = array + tam-1;

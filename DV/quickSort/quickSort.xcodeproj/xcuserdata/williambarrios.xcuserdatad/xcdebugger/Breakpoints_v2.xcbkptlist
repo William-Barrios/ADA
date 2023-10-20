@@ -14,11 +14,41 @@
             filePath = "quickSort/main.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
             landmarkName = "main(argc, argv)"
             landmarkType = "9">
             <Locations>
+               <Location
+                  uuid = "DAF5B3E4-80DC-4124-95D8-2A21CE215E19 - be5aeecc1d20e0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "quickS(int*, int*, int*)"
+                  moduleName = "quickSort"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/DV/quickSort/quickSort/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "DAF5B3E4-80DC-4124-95D8-2A21CE215E19 - 2ae9aa42ab2726e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "quickSort"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/DV/quickSort/quickSort/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "48">
+               </Location>
                <Location
                   uuid = "DAF5B3E4-80DC-4124-95D8-2A21CE215E19 - 2ae9aa42ab2726a2"
                   shouldBeEnabled = "Yes"
@@ -32,21 +62,6 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "54"
                   endingLineNumber = "54"
-                  offsetFromSymbolStart = "48">
-               </Location>
-               <Location
-                  uuid = "DAF5B3E4-80DC-4124-95D8-2A21CE215E19 - 2ae9aa42ab2726c3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "main"
-                  moduleName = "quickSort"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/williambarrios/Documents/ADA/DV/quickSort/quickSort/main.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "53"
-                  endingLineNumber = "53"
                   offsetFromSymbolStart = "48">
                </Location>
             </Locations>
