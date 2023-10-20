@@ -12,7 +12,7 @@ int main(int argc, const char * argv[]) {
     int c1=0,c2=0,c3=0,c4=0,c5=0,c6=0;
     int i= 1;c1++;
     c2++;
-    while(i<=67){
+    while(i<=10){
         c2++;
         int j=1;c3++;
         c4++;
