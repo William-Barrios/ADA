@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "42DF1FF5-C677-4FCC-9738-714F9BE9353D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC749372-8202-4303-AA9D-9809E470CF0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ejercicio6_Voraz/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EC749372-8202-4303-AA9D-9809E470CF0A - 74e845e57ff9de77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Ejercicio6_Voraz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/Voraz/Ejercicios%20Propuestos/Ejercicio6_Voraz/Ejercicio6_Voraz/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "EC749372-8202-4303-AA9D-9809E470CF0A - 74e845e57ff9de31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Ejercicio6_Voraz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/Voraz/Ejercicios%20Propuestos/Ejercicio6_Voraz/Ejercicio6_Voraz/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "EC749372-8202-4303-AA9D-9809E470CF0A - 74e845e57ff9de56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Ejercicio6_Voraz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/Voraz/Ejercicios%20Propuestos/Ejercicio6_Voraz/Ejercicio6_Voraz/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A073991-7DFD-4016-9764-15C356A917AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ejercicio6_Voraz/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "5A073991-7DFD-4016-9764-15C356A917AB - 74e845e57ff9df08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Ejercicio6_Voraz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/Voraz/Ejercicios%20Propuestos/Ejercicio6_Voraz/Ejercicio6_Voraz/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "5A073991-7DFD-4016-9764-15C356A917AB - 74e845e57ff9df29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Ejercicio6_Voraz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/Voraz/Ejercicios%20Propuestos/Ejercicio6_Voraz/Ejercicio6_Voraz/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "5A073991-7DFD-4016-9764-15C356A917AB - 74e845e57ff9df4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Ejercicio6_Voraz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/Voraz/Ejercicios%20Propuestos/Ejercicio6_Voraz/Ejercicio6_Voraz/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

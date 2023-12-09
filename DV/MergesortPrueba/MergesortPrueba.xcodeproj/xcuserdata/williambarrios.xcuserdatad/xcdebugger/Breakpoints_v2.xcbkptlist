@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EC18C15F-B8C8-447C-A49B-AB0050F05FD0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCBAB047-7C37-435E-A6F7-875853FC5ED1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MergesortPrueba/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "CCBAB047-7C37-435E-A6F7-875853FC5ED1 - 358623b7507aa3d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "MergesortPrueba"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/DV/MergesortPrueba/MergesortPrueba/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "CCBAB047-7C37-435E-A6F7-875853FC5ED1 - 358623b7507aa3d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "MergesortPrueba"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/DV/MergesortPrueba/MergesortPrueba/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "CCBAB047-7C37-435E-A6F7-875853FC5ED1 - 358623b7507aa3b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "MergesortPrueba"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williambarrios/Documents/ADA/DV/MergesortPrueba/MergesortPrueba/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
